@@ -1,3 +1,4 @@
+.env
 # === React Frontend ===
 TodoList-Reactjs/.env
 node_modules/
@@ -5,7 +6,6 @@ node_modules/
 
 # === FastAPI Backend ===
 TodoList-FastApi/__pycache__/
-.env
 *.pyc
 *.pyo
 *.pyd
