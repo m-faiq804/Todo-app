@@ -2,13 +2,16 @@
 TodoList-React.js/node_modules/
 TodoList-Reactjs/.env
 
+node_modules/
+
+
 # === FastAPI Backend ===
 TodoList-FastApi/__pycache__/
-TodoList-FastApi/.env
+TodoList-FastApi/my_todolist_app/.env
 *.pyc
 *.pyo
 *.pyd
-node_modules/
+
 
 # === Common / OS / Editor ===
 .vscode/
