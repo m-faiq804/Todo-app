@@ -1,6 +1,5 @@
-.env
+**/.env
 # === React Frontend ===
-TodoList-Reactjs/.env
 node_modules/
 
 
