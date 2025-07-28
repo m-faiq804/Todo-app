@@ -1,0 +1,18 @@
+# === React Frontend ===
+TodoList-React.js/node_modules/
+TodoList-Reactjs/.env
+
+# === FastAPI Backend ===
+TodoList-FastApi/__pycache__/
+TodoList-FastApi/.env
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+
+# === Common / OS / Editor ===
+.vscode/
+
+# Other files you may not want in version control
+*.bak
+*.swp
